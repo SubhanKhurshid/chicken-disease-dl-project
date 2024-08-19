@@ -1,5 +1,8 @@
 # Chicken Disease Classification Deep Learning Project
 
+
+## DEPLOYED ON AWS AND AZURE !
+
 ## Workflows
 
 1. Update config.yaml
